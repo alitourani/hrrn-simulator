@@ -1,0 +1,17 @@
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\bin\Debug\OS.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\bin\Debug\OS.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\OS.Form1.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\OS.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\OS.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\OS\OS\obj\x86\Debug\OS.pdb
+D:\Git\HRRN\OS\obj\x86\Debug\OS.exe
+D:\Git\HRRN\OS\obj\x86\Debug\OS.pdb
+D:\Git\HRRN\OS\bin\Debug\OS.exe
+D:\Git\HRRN\OS\bin\Debug\OS.pdb
+D:\Git\HRRN\OS\obj\x86\Debug\OS.csprojResolveAssemblyReference.cache
+D:\Git\HRRN\OS\obj\x86\Debug\OS.Form1.resources
+D:\Git\HRRN\OS\obj\x86\Debug\OS.Properties.Resources.resources
+D:\Git\HRRN\OS\obj\x86\Debug\OS.csproj.GenerateResource.Cache
