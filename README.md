@@ -15,3 +15,7 @@ In HRRN shorter processes are favoured and longer jobs can get past shorter jobs
 5. Calculate the waiting time as turn around time – burst time.
 6. Turn around time divided by the burst time gives the normalized turn around time.
 7. Sum up the waiting and turn around times of all processes and divide by the number of processes to get the average waiting and turn around time.
+
+### References:
+[1] Wikipedia - Highest response ratio next ([Link](https://en.wikipedia.org/wiki/Highest_response_ratio_next "Link"))
+[2] How does Highest Response Ratio Next work? ([Link](https://www.quora.com/How-does-Highest-Response-Ratio-Next-work-as-a-process-scheduling-algorithm-in-operating-systems "Link"))
