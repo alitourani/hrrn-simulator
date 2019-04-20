@@ -1,5 +1,17 @@
-# hrrn-simulator
-Operating System - Highest Response Ratio Next (HRRN) Algorithm Simulation
+# HRRN Algorithm Simulator
+This application is a simulator for **Highest Response Ratio Next (HRRN)** Algorithm which is a known method in Operating Systems to handle their processes.  In the fields of process management and CPU scheduling, there are a wide variety of algorithms to make sure the incoming processes are done in the desired time.
+Considering Arrival Time as the time at which the process arrives in the ready queue and Burst Time as the time required by a process for CPU execution, Response Ratio in HRRN algorithm is:
 
-Given n processes with their Arrival times and Burst times, the task is to find average waiting time and average turn around time using HRRN scheduling algorithm. A process once selected will run till completion.
-The main formula for HRRN algorithm is Response Ratio = (W + S)/S where W is the waiting time of the process so far and S is the Burst time of the process.
+> Response Ratio = (W + S)/SResponse Ratio = (W + S)/S
+
+Where S refers to Burst Time and W refers to the time difference between turn around time and burst time. Read more about different times for scheduling [here](https://www.geeksforgeeks.org/gate-notes-operating-system-process-scheduling/ "here").
+In HRRN shorter processes are favoured and longer jobs can get past shorter jobs.
+
+### Implementation of HRRN Scheduling
+1. Input the number of processes, their arrival times and burst times.
+2. Sort them according to their arrival times.
+3. At any given time calculate the response ratios and select the appropriate process to be scheduled.
+4. Calculate the turn around time as completion time – arrival time.
+5. Calculate the waiting time as turn around time – burst time.
+6. Turn around time divided by the burst time gives the normalized turn around time.
+7. Sum up the waiting and turn around times of all processes and divide by the number of processes to get the average waiting and turn around time.
