@@ -1,6 +1,6 @@
 # HRRN Algorithm Simulator
 This application is a simulator for **Highest Response Ratio Next (HRRN)** Algorithm which is a known method in Operating Systems to handle their processes.  In the fields of process management and CPU scheduling, there are a wide variety of algorithms to make sure the incoming processes are done in the desired time.
-Considering* Arrival Time* as the time at which the process arrives in the ready queue and Burst Time as the time required by a process for CPU execution, Response Ratio in HRRN algorithm is:
+Considering ***Arrival Time*** as the time at which the process arrives in the ready queue and Burst Time as the time required by a process for CPU execution, Response Ratio in HRRN algorithm is:
 
 ```csharp
  Response Ratio = (W + S)/S
